@@ -1,4 +1,4 @@
-console.log("akshat");
+//console.log("akshat");
 const searchBtn = document.getElementById('searchBtn');
 const cityName = document.getElementById('cityName');
 const city_name = document.getElementById('city_name');
